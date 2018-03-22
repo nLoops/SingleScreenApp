@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">109 Cafe</string>
+    <string name="txtname">Coffee And Restaurant</string>
+    <string name="txtdesc">Good Day Start With your Coffee From 109 Cafe.</string>
+    <string name="txtemail">109cafe@gmail.com</string>
+    <string name="txtloc">Jeddah - KSA</string>
+    <string name="txtworking">Every Day From 8:00 AM To 11:00 PM</string>
+</resources>
